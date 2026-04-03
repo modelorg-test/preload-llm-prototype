@@ -1,2 +1,3 @@
-# preload-llm-prototype
-Auto-created test repo (preload-llm-prototype)
+# Multi-Model Repository
+
+Contains model_alpha and model_beta.
