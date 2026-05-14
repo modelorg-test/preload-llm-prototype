@@ -1,0 +1,12 @@
+name: Internal Copilot Base
+description: Llama 3 8B fine-tuned for internal corporate querying and RAG integration.
+stage: development
+current_version: 0.1.0
+risk_tier: medium
+framework: transformers
+owner: ai-research
+scope: Generative AI
+tags:
+  domain: llm
+  type: rag
+  env: prototype

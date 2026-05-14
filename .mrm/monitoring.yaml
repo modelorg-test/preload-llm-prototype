@@ -1,0 +1,10 @@
+drift_detection: true
+features:
+- prompt_length
+- response_toxicity_score
+- latency_ms
+psi_threshold: 0.25
+quality_metrics:
+- completeness
+- uniqueness
+schedule: weekly
